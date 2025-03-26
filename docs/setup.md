@@ -1,5 +1,5 @@
 # Projekt einrichten
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/ElionBa/projekt-dokumentation.git
+   git clone https://elionba.github.io/Projekt-Dokumentation/
 2. npm install
